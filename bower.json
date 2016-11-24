@@ -1,6 +1,10 @@
 {
   "name": "manmaru.stringutil",
   "main": "manmaru.stringutil.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-dufond/manmaru.stringutil.git"
+  },
   "authors": [
     "Adrien Dufond <adrien.dufond@gmail.com>"
   ],
