@@ -1,0 +1,14 @@
+{
+  "name": "manmaru.stringutil",
+  "main": "manmaru.stringutil.js",
+  "authors": [
+    "Adrien Dufond <adrien.dufond@gmail.com>"
+  ],
+  "description": "javascript utilities for manipulating and searching Strings",
+  "keywords": [
+    "string",
+    "manmaru"
+  ],
+  "license": "MIT",
+  "homepage": "www.manmaru.fr"
+}
