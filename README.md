@@ -106,7 +106,7 @@ Transform br to \n<br>
 <b>How to use:</b><br>
 StringUtil.functionName("param");<br>
 <br>
-<b>example of use :</b><br>
+<b>Example of use :</b><br>
 var testString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit";<br>
 console.log(StringUtil.removeWhitespace(testString));<br>
 return -> Loremipsumdolorsitamet,consecteturadipiscingelit
