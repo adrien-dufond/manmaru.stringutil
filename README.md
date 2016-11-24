@@ -20,8 +20,12 @@ Javascript utilities for manipulating and searching strings.<br><br>
 <b>pathVars</b>(str, number_return) -> Transform source url string in array.<br>
 <b>utf8Encode</b>(source) -> UTF8 Encode.<br>
 <b>utf8Decode</b>(source) -> UTF8 Decode.<br>
-<b>lnToBr</b>(source) -> Transform \n to br. <br>
-<b>brToLn</b>(source)<br>
+<b>lnToBr</b>(source) -><br>
+Transform \n to br.<br>
+@param source: String.<br>
+@return String.<br><br>
+    
+<b>brToLn</b>(source) -><br>
 Transform br to \n.
 @param source: String.<br>
 @return String.<br><br><br>
