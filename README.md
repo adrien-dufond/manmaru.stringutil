@@ -4,7 +4,7 @@ MANMARU STRINGUTIL JS
 <b>manmaru.stringutil.js :</b><br>
 Javascript utilities for manipulating and searching strings.<br><br>
 <b>functions list :</b><br>
-<b>addAt</b>(source, position, addition) -> <br>
+<b>addAt</b>(source, position, addition) -><br>
 Adds characters at a specific index<br>
 @param source: String to add characters to<br>
 @param position: Position in which to add characters<br>
@@ -39,7 +39,7 @@ Removes a character at a specific index<br>
 @param position: Position of character to remove<br>
 @return String with character removed<br><br>
 
-<b>removeNumbersFromString</b>(source) -> 
+<b>removeNumbersFromString</b>(source) -><br>
 Removes all numeric characters from string<br>
 @param source: String to remove numbers from<br>
 @return String with numbers removed<br><br>
@@ -49,42 +49,42 @@ Removes tabs, linefeeds, carriage returns and spaces from string<br>
 @param source: String to remove whitespace from<br>
 @return String with whitespace removed<br><br>
 
-<b>replace</b>(source, remove, replace) -> <br>
+<b>replace</b>(source, remove, replace) -><br>
 Replaces target characters with new characters<br>
 @param source: String to replace characters from<br>
 @param remove: String describing characters to remove<br>
 @param replace: String to replace removed characters<br>
 @return String with characters replaced<br><br>
         
-<b>replaceAt</b>(source, position, replace) ->
+<b>replaceAt</b>(source, position, replace) -><br>
 Replaces a character at a specific index with new characters<br>
 @param source: String to replace characters from<br>
 @param position: Position of character to replace<br>
 @param replace: String to replace removed character<br>
 @return String with character replaced<br><br>
 
-<b>toTitleCase</b>(source) ->
+<b>toTitleCase</b>(source) -><br>
 Transforms source string to per word capitalization.<br>
 @param source: String to return as title cased.<br>
 @return String with capitalized words.<br><br>
 
-<b>urlValue</b>(name, string) -> <br>
+<b>urlValue</b>(name, string) -><br>
 Get value of string with URLFormat <br>
 @param name Example: &var1=mi_var1&var2=mi_var2&var3=mi_var3<br>
 StringUtil.urlValue('var2')<br>
 @return String mi_var2<br><br>
         
-<b>urlFriendly</b>(source, max) -> 
+<b>urlFriendly</b>(source, max) -> <br>
 Transform source string in url string format<br>
 @param source: String to return as url format<br>
 @return string<br><br>
         
-<b>pathVars</b>(str, number_return) ->
+<b>pathVars</b>(str, number_return) -><br>
 Transform source url string in array<br>
 @param source: url string to return in array<br>
 @return array<br><br>
 
-<b>utf8Encode</b>(source) ->
+<b>utf8Encode</b>(source) -><br>
 UTF8 Encode<br>
 @param source: string to encode<br>
 @return encoded UTF8 String<br><br>
