@@ -21,7 +21,10 @@ Javascript utilities for manipulating and searching strings.<br><br>
 <b>utf8Encode</b>(source) -> UTF8 Encode.<br>
 <b>utf8Decode</b>(source) -> UTF8 Decode.<br>
 <b>lnToBr</b>(source) -> Transform \n to br. <br>
-<b>brToLn</b>(source) -> Transform br to \n. <br><br><br>
+<b>brToLn</b>(source)<br>
+Transform br to \n.
+@param source: String.<br>
+@return String.<br><br><br>
 <b>How to use:</b><br>
 StringUtil.functionName("param");<br>
 <br>
