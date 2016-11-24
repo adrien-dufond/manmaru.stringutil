@@ -1,6 +1,8 @@
 MANMARU STRINGUTIL JS
 ===============
 
+<i>Inspired from CASA Lib / AS 2.0 (v.10/06/08) - Aaron Clinger, David Nelson</i><br><br>
+
 <b>manmaru.stringutil.js :</b><br>
 Javascript utilities for manipulating and searching strings.<br><br>
 <b>functions list :</b><br>
